@@ -1,7 +1,7 @@
 {
   "name": "mvu-react-form",
   "private": true,
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A form generator using React stateless components and the Model-View-Update architecture",
   "main": "index.js",
   "scripts": {
